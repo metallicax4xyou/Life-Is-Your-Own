@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 require("@nomicfoundation/hardhat-toolbox");
 require("dotenv").config(); // Load variables from .env file
 
@@ -33,4 +31,3 @@ module.exports = {
   //   apiKey: process.env.POLYGONSCAN_API_KEY
   // }
 };
->>>>>>> 21a288d1f2e7c7c76369cf14af20d0e137baf966
